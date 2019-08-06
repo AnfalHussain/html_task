@@ -1,0 +1,102 @@
+
+.topnav
+{
+  font-family: "Futura" ;
+
+  background-color: #e7bdf0;
+  overflow: hidden;
+}
+
+.topnav a 
+{
+  float: right;
+  color: #42034f;
+  font-weight: bold;
+  text-align: center;
+  padding: 14px 18px;
+  font-size: 30px;
+  text-decoration: none;
+
+}
+
+
+
+div
+{
+	background-color: #e7bdf0;
+
+}
+
+
+h1 
+{
+	font-family: "Futura";
+  	text-align: left;
+	color: #9000ad;
+	font-size: 90px;
+	background: url("modern.jpg") no-repeat left top ;
+	background-size: 1420px;
+  	padding: 70px;
+  	margin: 0px;
+
+}
+ 
+h2
+ {
+	font-family: "Futura";
+  	margin: 0px;
+ 	 padding: 14px 18px;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+
+  	background-color: #e7bdf0;
+
+ }
+p
+{
+	font-family: "Futura";
+  	margin: 14px;
+    text-indent: 100px;
+    font-size: 30px;
+  	padding: 70px;
+
+}
+
+
+a
+{
+	font-family: "Futura";
+
+	color: #9000ad;
+}
+
+
+ul
+ {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+img
+{
+	border-width: 7px;
+    box-shadow: 10px 10px 8px #888888;
+  	border-radius: 9px;
+
+}
+
+div.polaroid 
+{
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.container 
+{
+  text-align: center;
+  padding: 10px 20px;
+}
+
+
